@@ -1,0 +1,8 @@
+#忽略Python编译产生的.pyc、.pyo、dist等文件或目录
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
